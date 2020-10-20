@@ -14,7 +14,9 @@ Práctica 4:
 
 3.Piense en las características generales que tendría un personaje de pájaro e implemente una clase padre llamada Pájaro.
 
-4.Implementar subclases para los diferentes personajes considerando sus ataques. Los métodos pueden simplemente imprimir un mensaje en la consola.5.Haga un programa para probar sus clases. Tenga en cuenta cómo las subclases pueden usar tanto sus propios métodos como los métodos de su superclase
+4.Implementar subclases para los diferentes personajes considerando sus ataques. Los métodos pueden simplemente imprimir un mensaje en la consola.
+
+5.Haga un programa para probar sus clases. Tenga en cuenta cómo las subclases pueden usar tanto sus propios métodos como los métodos de su superclase
 
 Esta práctica estuvo medio rara, se supone que debía de ser sólo crear la super clase, después heredar a las subclases y en ellas agregarles sus propios métodos y atributos para que al final instanciaramos los objetivos de cada subclase en el main, pero no sé porqué pide que lo hagamos en un arreglo (ya que la única manera es declarar un arreglo del tipo de referencia de la super clase y asi instanciar objetos de las subclases) pero de esa manera NO se van a llamar los métodos de las subclases ;-; al menos que hagamos a la super clase "abstract" para así declarar métodos abstractos y luego usar poliformismo ._. (en fin, lo hice como lo entendí)
 
