@@ -8,19 +8,19 @@ public class Main
 		Banco cuenta = new Banco();
 		Scanner entrada = new Scanner(System.in);
 		
-		do //Bucle que muestra el menú principal.
+		do //Bucle que muestra el menÃº principal.
 		{
 			System.out.println("\n\n\n\n\t\tB A N C O   J A V A");
 			System.out.print("\n\n\n\t\t1. Crear cuenta.");
 			System.out.print("\n\n\t\t2. Acceder a cuenta.");
 			System.out.print("\n\n\t\t3. Salir.");
 			
-			System.out.print("\n\n\n\t\tIngrese la opción deseada: ");
+			System.out.print("\n\n\n\t\tIngrese la opciÃ³n deseada: ");
 			opcion = entrada.nextByte();
 			
 			switch(opcion)
 			{
-				case 1: cuenta.setCuenta(entrada); 					break;
+				case 1: cuenta.setCuenta(entrada); 				break;
 				
 				case 2: posicion = cuenta.iniciarSesion(entrada);
 						
