@@ -1,12 +1,12 @@
 # Java - Prácticas De POO
 
-_.Practica 3:
+# Practica 3:
 Esta práctica consiste en crear una clase llamada "Persona", la cual tendrá 3 variables de instancia (Nombre, curp y rfc), se usará la clase String para establecer los valores antes mencionados solicitando al usuario los datos convenientes para llevar acabo dicha tarea.
 
 Video del programa: https://drive.google.com/file/d/1fR25SNXaowSAe_Q47-90Fxk7fuNOhuAf/view?usp=sharing
 
 
-_.Práctica 4:
+# Práctica 4:
 
 1.Crear una clase que implemente un personaje del videojuego “Angry Birds”. Considere qué tipo de atributos y métodos debería tener.
 
@@ -23,6 +23,6 @@ Esta práctica estuvo medio rara, se supone que debía de ser sólo crear la sup
 Video del programa: https://drive.google.com/file/d/1WdbdQYK0E39ov2MD4xN2Qiz0sea4VoA-/view?usp=sharing
 
 
-_.Práctica 5:
+# Práctica 5:
 
 video del programa: https://drive.google.com/file/d/1SAMWxrU6y9ZXCWExv1SpvQfV6wRyoz0A/view?usp=sharing
