@@ -27,6 +27,6 @@ Video del programa: https://drive.google.com/file/d/1WdbdQYK0E39ov2MD4xN2Qiz0sea
 
 video del programa: https://drive.google.com/file/d/1SAMWxrU6y9ZXCWExv1SpvQfV6wRyoz0A/view?usp=sharing
 
-#Práctica 6:
+# Práctica 6:
 
 Video del programa: https://drive.google.com/file/d/1b9RMfB6-oJ5AtUtIk7fkMPs7V3xnHrxn/view
