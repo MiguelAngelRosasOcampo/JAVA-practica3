@@ -30,3 +30,7 @@ video del programa: https://drive.google.com/file/d/1SAMWxrU6y9ZXCWExv1SpvQfV6wR
 # Práctica 6:
 
 Video del programa: https://drive.google.com/file/d/1b9RMfB6-oJ5AtUtIk7fkMPs7V3xnHrxn/view
+
+# Práctica 7:
+
+Video del programa: https://drive.google.com/file/d/1aOzzWN6p-W0xz84ys4tCycs6Jhh7qwFY/view?usp=sharing
