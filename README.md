@@ -34,3 +34,9 @@ Video del programa: https://drive.google.com/file/d/1b9RMfB6-oJ5AtUtIk7fkMPs7V3x
 # Práctica 7:
 
 Video del programa: https://drive.google.com/file/d/1aOzzWN6p-W0xz84ys4tCycs6Jhh7qwFY/view?usp=sharing
+
+# Práctica 8:
+
+De las peores que he hecho en cuanto a eficiencia, tengo tarea y lo único que quería era terminarla, pero le faltan muchísimas cosas ;-;
+
+video del programa: https://drive.google.com/file/d/1ZhX5QZoapgXYtvoo5F7HZqqGSxDKmp-U/view?usp=sharing
